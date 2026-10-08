@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Módulo Terraform responsável pela criação de buckets Amazon S3.
+Módulo Terraform responsável pela criação e gerenciar buckets Amazon S3, seguindo boas práticas de governança, versionamento e reutilização.
 
 Este módulo permite padronizar a criação de buckets AWS utilizando Infrastructure as Code.
 
